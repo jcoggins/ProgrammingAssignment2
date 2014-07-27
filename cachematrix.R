@@ -1,6 +1,13 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+##  
+## Tested by using this constructed matrix for x
+## v1 <- c(1, 3)
+## v2 <- c(2, 4)
+## matrix <- rbind(v1, v2)
+## matrix
+
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
