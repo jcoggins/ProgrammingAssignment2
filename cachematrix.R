@@ -1,7 +1,7 @@
  Put comments here that give an overall description of what your
  functions do
 
-##  The 2 functions have run in sequence.  makeCacheMatrix function is a help
+##  The 2 functions need to run in sequence.  makeCacheMatrix function is a help
 ##  for the cacheSolve function.  As with makeVector you send in a vector as
 ##  parameter x it is prepared for processing by the cacheSolve function.
 ##  The cacheSolve function returns an inverse or the cached inverse matrix with
