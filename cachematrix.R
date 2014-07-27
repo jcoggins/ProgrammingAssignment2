@@ -1,7 +1,12 @@
-## Put comments here that give an overall description of what your
-## functions do
+ Put comments here that give an overall description of what your
+ functions do
 
-##  
+##  The 2 functions have run in sequence.  makeCacheMatrix function is a help
+##  for the cacheSolve function.  As with makeVector you send in a vector as
+##  parameter x it is prepared for processing by the cacheSolve function.
+##  The cacheSolve function returns an inverse or the cached inverse matrix with
+##  a message stating so.
+  
 ## Tested by using this constructed matrix for x
 ## v1 <- c(1, 3)
 ## v2 <- c(2, 4)
