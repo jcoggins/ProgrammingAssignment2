@@ -9,7 +9,8 @@
 ## matrix
 
 ## Write a short comment describing this function
-
+## run this function first to prepare the matrix for processing
+## a special matrix results (2x2)
 makeCacheMatrix <- function(x = matrix()) {
   ## matrix is empty
   matrx <- NULL
@@ -36,7 +37,9 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
-
+## on the first pass this function witl take the special matrix 
+## and make an inverse matrix
+## On the second pass of the same matrix the message is returned
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
   ## check if inverse is already calculated
